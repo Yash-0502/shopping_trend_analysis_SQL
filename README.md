@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Shop_trends.png" alt="Shopping Trends SQL Project Cover" width="800"/>
+</p>
+
 # Shopping Trends - SQL Analysis
 
 This project explores customer shopping behavior through SQL-based analysis of a retail dataset. The dataset contains 3,900 records, capturing customer demographics, product details, payment methods, purchase habits, and more.
