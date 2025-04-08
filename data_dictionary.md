@@ -1,0 +1,21 @@
+## Data Dictionary
+
+- **Customer ID**: Unique identifier for each customer
+- **Age**: Age of the customer
+- **Gender**: Gender of the customer (Male/Female)
+- **Item Purchased**: The item purchased by the customer
+- **Category**: Category of the item purchased
+- **Purchase Amount (USD)**: Total amount spent by the customer in USD
+- **Location**: Geographic location where the purchase was made
+- **Size**: Size of the purchased item
+- **Color**: Color of the purchased item
+- **Season**: Season during which the purchase occurred
+- **Review Rating**: Customer rating for the purchased item (1-5)
+- **Subscription Status**: Indicates if the customer has an active subscription (Yes/No)
+- **Payment Method**: Payment method used for the purchase
+- **Shipping Type**: Shipping method selected by the customer
+- **Discount Applied**: Whether a discount was applied (Yes/No)
+- **Promo Code Used**: Whether a promo code was used during purchase (Yes/No)
+- **Previous Purchases**: Number of past purchases made by the customer
+- **Preferred Payment Method**: Customer's most used payment method
+- **Frequency of Purchases**: How often the customer shops (Weekly, Fortnightly, Monthly)
